@@ -10,7 +10,7 @@ I build data pipelines, backend systems, and AI-powered tools — with a focus o
 
 **Languages:** Python, SQL, JavaScript, Java, Swift  
 **Data & Cloud:** Azure (ADF, ADLS, Synapse), Databricks, Delta Lake, SQL Server, Snowflake, Spark/PySpark  
-**AI/ML:** LangChain, LLM application development, NLP  
+**AI/ML:** LLM application development, NLP  
 **DevOps & Tools:** Docker, GitLab CI/CD, Git, REST APIs, gRPC  
 **Web & Mobile:** React, React Native, SwiftUI
 
