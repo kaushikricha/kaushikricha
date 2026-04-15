@@ -18,7 +18,7 @@ I build data pipelines, backend systems, and AI-powered tools — with a focus o
 
 ### 🚀 Featured Projects
 
-**[AI SQL Copilot](https://github.com/kaushikricha)** — An LLM-powered tool that translates natural language into optimized SQL queries. Built with Python, LangChain, and Azure, it enables non-technical users to query databases conversationally.
+**[AI SQL Copilot](https://github.com/kaushikricha/sql-copilot)** — An LLM-powered tool that translates natural language into optimized SQL queries. Built with Python, LangChain, and Azure, it enables non-technical users to query databases conversationally.
 
 **[gRPC + REST Docker Service](https://github.com/kaushikricha/grpc-rest-docker-service)** — A Python microservice implementing both gRPC and REST APIs, fully containerized with Docker.
 
