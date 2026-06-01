@@ -18,7 +18,7 @@ I build data pipelines, backend systems, and AI-powered tools — with a focus o
 
 ### 🚀 Featured Projects
 
-**[AI SQL Copilot](https://github.com/kaushikricha/sql-copilot)** — An LLM-powered tool that translates natural language into optimized SQL queries. Built with Python, LangChain, and Azure, it enables non-technical users to query databases conversationally.
+**[AI SQL Copilot](https://github.com/kaushikricha/sql-copilot)** — An LLM-powered tool that translates natural language into optimized SQL queries. Built with Python, Grok (xAI) and Azure, it enables non-technical users to query databases conversationally.
 
 **[gRPC + REST Docker Service](https://github.com/kaushikricha/grpc-rest-docker-service)** — A Python microservice implementing both gRPC and REST APIs, fully containerized with Docker.
 
@@ -28,5 +28,5 @@ I build data pipelines, backend systems, and AI-powered tools — with a focus o
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richasharmakaushik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:richasharmakaushik@gmail.com)
